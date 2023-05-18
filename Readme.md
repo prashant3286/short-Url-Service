@@ -37,5 +37,12 @@ Replace "mongodb://localhost:27017" with the appropriate MongoDB connection URL.
 6. Build and run the application:
     ```go run main.go```
 
+## Running the service
+
+1. Make sure to install docker on your machine
+2. Run `docker-compose up` 
+
 
 ### The server will start on http://localhost:8080.
+
+
